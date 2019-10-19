@@ -1,0 +1,2 @@
+name=Boris,age=33,work=microsoft
+name=Jim,age=24,work=epam
